@@ -1,4 +1,4 @@
-# database-experience-dio
+# Desafio Projeto Conceitual de Banco de Dados – E-COMMERCE
 Conforme descrito no desafio o objetivo era refinar o modelo apresentado acrescentando os seguintes pontos:
 
 Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
